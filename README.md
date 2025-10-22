@@ -1,4 +1,4 @@
-## Oi pessoal! Eu sou o Gabriel Ramires 😁  
+## Oi pessoal! Eu sou o Gabriel Ramires 👋😁
 🎓 Estudante de **Engenharia Eletrônica** e apaixonado por tecnologia, drones e automação!  
 
 - 🔭 Atualmente trabalhando com **Python** para **automação de voos de drones**  
