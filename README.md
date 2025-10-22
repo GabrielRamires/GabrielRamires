@@ -1,16 +1,21 @@
-## Hi there 👋
+## Oi pessoal! Eu sou o Gabriel Ramires 😁  
+🎓 Estudante de **Engenharia Eletrônica** e apaixonado por tecnologia, drones e automação!  
 
-<!--
-**GabrielRamires/GabrielRamires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando com **Python** para **automação de voos de drones**  
+- 🌱 Aprendendo **C**, **C#**, **C++** e explorando o universo **Linux**  
+- 🤝 Busco colaborar em **projetos de automação**, **robótica** ou **eletrônica embarcada**  
+- 📫 Fale comigo por e-mail: **gabriel.ramires016@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+</p>
